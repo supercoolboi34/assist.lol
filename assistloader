@@ -1,0 +1,5 @@
+-- Loader
+
+script_key = getgenv().Assist.Key;
+
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/c83230837efd17da43722be481c4a8cd.lua"))()
