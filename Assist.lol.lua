@@ -55,3 +55,4 @@ getgenv().Assist = {
     },
 }
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/supercoolboi34/assist.lol/main/assistloader"))()
